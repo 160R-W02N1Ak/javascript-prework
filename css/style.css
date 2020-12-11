@@ -1,0 +1,59 @@
+/* Global */
+body {
+  background-color: black;
+}
+
+/* Splash */
+.splash {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 50px;
+  margin: 0 auto;
+  color: #fff;
+  text-shadow: 2px 4px 10px red;
+  font-family: fantasy;
+}
+
+/* Instrukcja */
+.instruction {
+  text-align: center;
+  font-size: 25px;
+  margin: 50px;
+  border: solid red;
+  color: #fff;
+}
+
+/* Gra */
+.container {
+  text-align: center;
+  font-size: 50px;
+  margin: 70px;
+  text-shadow: 2px 4px 10px red;
+  font-family: fantasy;
+  color: #fff;
+}
+
+.container button {
+  padding: 10px 20px;
+  font-size: 70px;
+  border: 10px solid red;
+  background-color: #fff;
+  border-radius: 20px;
+  margin: 30px;
+  font-style: italic;
+}
+
+/* Footer */
+.page-footer {
+  position: relative;
+  background: black;
+}
+
+footer p {
+  font-family: "Roboto", sans-serif;
+  font-size: 20px;
+  color: #fff;
+  margin: 0;
+  padding: 25px 0;
+}
+/*# sourceMappingURL=style.css.map */
